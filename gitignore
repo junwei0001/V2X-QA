@@ -1,0 +1,46 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.dll
+*.dylib
+
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+
+.venv/
+venv/
+env/
+.conda/
+
+.vscode/
+.idea/
+
+outputs/
+logs/
+wandb/
+mlruns/
+
+# External raw data should not be committed
+data/raw_external/
+
+# Local caches
+.cache/
+.huggingface/
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Checkpoint artifacts generated locally during re-training
+*.ckpt
+*.pt
+*.pth
+*.bin
+
+# Keep released adapter safetensors under checkpoints/ tracked explicitly if desired.
+# Remove the next line if you intentionally commit additional local safetensors elsewhere.
+outputs/**/*.safetensors

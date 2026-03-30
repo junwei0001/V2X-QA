@@ -1,0 +1,10 @@
+torch
+transformers
+peft
+accelerate
+bitsandbytes
+Pillow
+tqdm
+numpy
+matplotlib
+qwen-vl-utils
