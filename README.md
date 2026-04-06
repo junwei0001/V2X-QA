@@ -78,7 +78,6 @@ V2X-QA/
 │   └── eval/
 │       └── v2x_moe_eval_mcqa_qwen3.py
 ├── .gitignore
-├── CITATION.cff
 ├── environment.yml
 ├── LICENSE
 ├── requirements.txt
