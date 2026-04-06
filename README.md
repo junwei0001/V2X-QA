@@ -3,8 +3,7 @@
 Official repository for **V2X-QA** and **V2X-MoE**, a multi-view visual question answering dataset, benchmark, and baseline for autonomous driving across **vehicle-side (VS)**, **infrastructure-side (IS)**, and **cooperative (CO)** views.
 
 > **Paper:** *V2X-QA: A Comprehensive Reasoning Dataset and Benchmark for Multimodal Large Language Models in Autonomous Driving Across Ego, Infrastructure, and Cooperative Views*  
-> **arXiv:** `to be added`  
-> **Paper link:** `to be added`
+> [![arXiv](https://img.shields.io/badge/arXiv-2604.02710-b31b1b.svg)](https://arxiv.org/abs/2604.02710) 
 
 ---
 
@@ -257,15 +256,15 @@ Users must comply with the licenses and usage terms of:
 
 ## 📚 Citation
 
-If you use this work, please cite the paper. The citation will be updated once the arXiv version is available.
+If you find this work helpful, please cite the paper below. 
 
 ```bibtex
 @article{you2026v2xqa,
   title   = {V2X-QA: A Comprehensive Reasoning Dataset and Benchmark for Multimodal Large Language Models in Autonomous Driving Across Ego, Infrastructure, and Cooperative Views},
-  author  = {You, Junwei and Jiang, Zhuoyu and Li, Pei and Tang, Weizhe and Huang, Zilin and Gan, Rui and Liu, Jiaxi and Zhao, Yan and Chen, Sikai and Ran, Bin},
-  journal = {arXiv preprint arXiv:TO_BE_ADDED},
+  author  = {You, Junwei and Li, Pei and Jiang, Zhuoyu and Tang, Weizhe and Huang, Zilin and Gan, Rui and Liu, Jiaxi and Zhao, Yan and Chen, Sikai and Ran, Bin},
+  journal = {arXiv preprint arXiv:2604.02710},
   year    = {2026},
-  url     = {TO_BE_ADDED}
+  url     = {https://arxiv.org/abs/2604.02710}
 }
 ```
 
